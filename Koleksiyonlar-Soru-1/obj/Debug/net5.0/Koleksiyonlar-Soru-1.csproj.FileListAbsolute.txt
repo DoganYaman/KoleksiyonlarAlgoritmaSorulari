@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.exe
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.deps.json
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.dll
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.pdb
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.dll
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\refint\Koleksiyonlar-Soru-1.dll
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.pdb
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\Csharp101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\ref\Koleksiyonlar-Soru-1.dll
